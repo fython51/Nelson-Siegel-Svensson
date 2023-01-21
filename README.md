@@ -1,7 +1,18 @@
 # Nelson-Siegel-Svensson
-## This repo
+## Repo 
+### Purpose
 The code in this repo contains a Python implementation of the Nelson-Siegel-Svensson (NSS) curve.
-For any questions, comments, or complaints, feel free to reach out! 
+
+### Correct functioning
+This repo contains three files:
+1. This ReadMe.md file;
+2. A Jupyter Notebook containing the NSS implementation; and
+3. An excel file, the data from which is imported into the notebook.
+
+A future reworking of this repo may include a "cleaner" data importation, like importing yield curve data from a major (free) source and reworking it, without the need for the excel file.
+
+### Contact details
+For any questions, comments, or complaints, feel free to reach out on twitter:  
 
 <br>
 
