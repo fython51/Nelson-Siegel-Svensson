@@ -12,7 +12,7 @@ This repo contains three files:
 A future reworking of this repo may include a "cleaner" data importation, like importing yield curve data from a major (free) source and reworking it, without the need for the excel file.
 
 ### Contact details
-For any questions, comments, or complaints, feel free to reach out on twitter:  
+For any questions, comments, or complaints, feel free to reach out on twitter: @fython51
 
 <br>
 
